@@ -18,7 +18,7 @@ export default function Skill(){
               <div className="flex mb-2 items-center justify-between">
                 <div>
                   <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
-                  skills
+                  ビジネススキル
                   </span>
                 </div>
                 <div className="text-right pr-8">
@@ -35,7 +35,7 @@ export default function Skill(){
               <div className="flex mb-2 items-center justify-between">
                 <div>
                   <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
-                  skills
+                  コミュニケーション
                   </span>
                 </div>
                 <div className="text-right pr-8">
@@ -52,7 +52,7 @@ export default function Skill(){
               <div className="flex mb-2 items-center justify-between">
                 <div>
                   <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
-                  skills
+                  プログラミング
                   </span>
                 </div>
                 <div className="text-right pr-8">
@@ -69,7 +69,7 @@ export default function Skill(){
               <div className="flex mb-2 items-center justify-between">
                 <div>
                   <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
-                  skills
+                  マーケティング
                   </span>
                 </div>
                 <div className="text-right pr-8">

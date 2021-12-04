@@ -56,7 +56,8 @@ export default function Values(){
             <p className='py-5 leading-5 text-my_main-25 md:'>
               父親として、社会人としての２つで目標を設定したいと考えています。
               ◎父親として：子供が２人いますが、自分の子供達に恥じない、誇れる姿で世の中に貢献している姿を
-              見せられるために、成長していくこと。
+              見せていけるよう、成長していくこと。
+              ◎社会人として：世の中の課題に対して、具体的に取り組んでいる、取り組める人材を目指します。
             </p>
           </div>
         <img src="future.png" alt="３年後の画像" className='mx-auto xl:pr-52' />
