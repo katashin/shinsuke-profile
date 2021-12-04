@@ -14,72 +14,72 @@ export default function Skill(){
             </p>
           </div>
           <div className='mx-5 bg-white rounded-md'>
-            <div class="relative pt-3">
-              <div class="flex mb-2 items-center justify-between">
+            <div className="relative pt-3">
+              <div className="flex mb-2 items-center justify-between">
                 <div>
-                  <span class="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
+                  <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
                   skills
                   </span>
                 </div>
-                <div class="text-right pr-8">
-                  <span class="text-sm inline-block text-my_main-13">
+                <div className="text-right pr-8">
+                  <span className="text-sm inline-block text-my_main-13">
                   50%
                   </span>
                 </div>
               </div>
-              <div class="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
-                <div style={{width: '50%;'}} class="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
+              <div className="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
+                <div style={{width: "50%;"}} className="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
               </div>
             </div>
-            <div class="relative pt-3">
-              <div class="flex mb-2 items-center justify-between">
+            <div className="relative pt-3">
+              <div className="flex mb-2 items-center justify-between">
                 <div>
-                  <span class="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
+                  <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
                   skills
                   </span>
                 </div>
-                <div class="text-right pr-8">
-                  <span class="text-sm inline-block text-my_main-13">
+                <div className="text-right pr-8">
+                  <span className="text-sm inline-block text-my_main-13">
                   40%
                   </span>
                 </div>
               </div>
-              <div class="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
-                <div style={{width: '40%;'}} class="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
+              <div className="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
+                <div style={{width: "40%;"}} className="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
               </div>
             </div>
-            <div class="relative pt-3">
-              <div class="flex mb-2 items-center justify-between">
+            <div className="relative pt-3">
+              <div className="flex mb-2 items-center justify-between">
                 <div>
-                  <span class="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
+                  <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
                   skills
                   </span>
                 </div>
-                <div class="text-right pr-8">
-                  <span class="text-sm inline-block text-my_main-13">
+                <div className="text-right pr-8">
+                  <span className="text-sm inline-block text-my_main-13">
                   60%
                   </span>
                 </div>
               </div>
-              <div class="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
-                <div style={{width: '60%;'}} class="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
+              <div className="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
+                <div style={{width: "60%;"}} className="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
               </div>
             </div>
-            <div class="relative pt-3 pb-5">
-              <div class="flex mb-2 items-center justify-between">
+            <div className="relative pt-3 pb-5">
+              <div className="flex mb-2 items-center justify-between">
                 <div>
-                  <span class="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
+                  <span className="text-xl inline-block py-1 px-2 ml-8 uppercase rounded-full text-my_main-13">
                   skills
                   </span>
                 </div>
-                <div class="text-right pr-8">
-                  <span class="text-sm inline-block text-my_main-13">
+                <div className="text-right pr-8">
+                  <span className="text-sm inline-block text-my_main-13">
                   50%
                   </span>
                 </div>
               </div>
-              <div class="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
-                <div style={{width: '50%;'}} class="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
+              <div className="overflow-hidden h-4 mx-8 mb-4 text-xs flex rounded bg-[#c5eaea]">
+                <div style={{width: "50%;"}} className="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-[#2bb9ba]"></div>
               </div>
             </div>
           </div>
