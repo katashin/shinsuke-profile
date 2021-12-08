@@ -6,22 +6,22 @@ export default function Header(props){
         <div className='flex items-center justify-between'>
           <div className='w-40 py-2 hover:opacity-75'>
             <a href="#header">
-              <img src="logo.png" alt="ヘッダーの画像" />
+              <img src="logo.png" alt="ヘッダーの画像" width='100%' height='100%' />
             </a>
           </div>
           <div className='py-2 mx-4 hidden md:block'>
             <div className='flex justify-between text-my_main-25'>
               <a href="#about">
-                <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13'>ABOUT</div>
+                <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13 tracking-wider'>ABOUT</div>
               </a>
               <a href="#skill">
-                <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13'>SKILLS</div>
+                <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13 tracking-wider'>SKILLS</div>
               </a>
               <a href="#value">
-                <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13'>VALUES</div>
+                <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13 tracking-wider'>VALUES</div>
               </a>
               <a href="#future">
-               <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13'>FUTURE</div>
+               <div className='mx-5 font-bold cursor-pointer duration-300 hover:text-my_main-13 tracking-wider'>FUTURE</div>
               </a>
             </div>
           </div>
@@ -33,11 +33,11 @@ export default function Header(props){
       <div className='bg-[#6bc2c3]'>
         <div className='text-center md:flex justify-between'>
           <div className='text-white md:mx-40 my-auto'>
-            <p className='text-3xl font-bold md:text-4xl'>私のプロフィール</p>
-            <p className='text-2xl text-gray-100 pt-2 xl:text-3xl'>〜片山真介〜</p>
+            <p className='text-3xl font-bold md:text-4xl tracking-wider'>私のプロフィール</p>
+            <p className='text-2xl text-gray-100 pt-2 xl:text-3xl tracking-wider'>〜片山真介〜</p>
           </div>
           <div className=''>
-            <img className='mx-auto md:mr-20 py-10' src="hero.png" alt="プロフィール画像" />
+            <img className='mx-auto md:mr-20 py-10' src="hero.png" alt="プロフィール画像" width='100%' height='100%' />
           </div>
         </div>
       {/* ヘッダーの終了 */}
