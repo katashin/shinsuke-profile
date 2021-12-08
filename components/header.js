@@ -6,7 +6,7 @@ export default function Header(props){
         <div className='flex items-center justify-between'>
           <div className='w-40 py-2 hover:opacity-75'>
             <a href="#header">
-              <img src="logo.png" alt="ヘッダーの画像" width='100%' height='100%' />
+              <img src="logo.png" alt="ヘッダーの画像" width='200px' height='200px' />
             </a>
           </div>
           <div className='py-2 mx-4 hidden md:block'>
@@ -37,7 +37,7 @@ export default function Header(props){
             <p className='text-2xl text-gray-100 pt-2 xl:text-3xl tracking-wider'>〜片山真介〜</p>
           </div>
           <div className=''>
-            <img className='mx-auto md:mr-20 py-10' src="hero.png" alt="プロフィール画像" width='100%' height='100%' />
+            <img className='mx-auto md:mr-20 py-10' src="hero.png" alt="プロフィール画像" width='700px' height='800px' />
           </div>
         </div>
       {/* ヘッダーの終了 */}

@@ -1,8 +1,8 @@
 export default function Skill(){
   return (
-    <div className='bg-fixed' style={{backgroundImage: 'url(bg-skills.png)', backgroundSize: '100%',  width: '100%', height: '100%'}}>
+    <div className='bg-fixed' style={{backgroundImage: 'url(bg-skills.png)', backgroundSize: '100%'}}>
       <div className='py-20 md:flex justify-center'>
-        <img  className='py-5 md:mr-10' src="skill.png" alt="スキルの画像" />
+        <img  className='py-5 px-5 md:mr-10' src="skill.png" alt="スキルの画像" width='500px' height='300px' />
         <div id='skill'>
           <div className='px-10'>
             <h1 className='text-left pt-5'>

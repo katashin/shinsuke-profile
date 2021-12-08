@@ -1,6 +1,6 @@
 export default function About (){
   return (
-    <div className='bg-fixed' style={{backgroundImage: "url(bg-about.png)", backgroundSize: '100%', width: '100%', height: '100%'}}>
+    <div className='bg-fixed' style={{backgroundImage: "url(bg-about.png)", backgroundSize: '100%'}}>
       <div className='py-10' id='about'>
         <h4 className='text-center'>
           <span className='font-bold px-3 text-2xl text-my_main-25 tracking-wider'>私について</span>
@@ -12,7 +12,7 @@ export default function About (){
         <div className="container px-10 sm:px-32 py-8 mx-auto">
           <div className="grid grid-cols-1 gap-6 md:grid-cols-1 lg:grid-cols-3">
             <div className='px-5'>
-              <img src="about-1.png" alt="趣味の画像" style={{display: "block; margin: auto;", width: 'auto', height: 'auto'}}/>
+              <img src="about-1.png" alt="趣味の画像" style={{display: "block; margin: auto;", width: '200px', height: '160px'}}/>
               <h1 className="mt-4 text-xl text-my_main-13 font-bold text-center tracking-wider">趣味</h1>
               <p className="mt-2 leading-5 text-my_main-25 tracking-wider">
                 性格のところにも記載しますが、年齢は３８歳ですが精神年齢は１５歳でとまっています。<br />
@@ -23,7 +23,7 @@ export default function About (){
               </p>
             </div>
             <div className='px-5'>
-              <img src="about-2.png" alt="好きな食べ物の画像" style={{display: 'block; margin: auto;', width: 'auto', height: 'auto'}}/>
+              <img src="about-2.png" alt="好きな食べ物の画像" style={{display: 'block; margin: auto;', width: '200px', height: '160px'}}/>
               <h1 className="mt-4 text-xl text-my_main-13 font-bold text-center tracking-wider">好きな食べ物</h1>
               <p className="mt-2 leading-5 text-my_main-25 tracking-wider">
                 みかんが大好きです！<br />
@@ -34,7 +34,7 @@ export default function About (){
               </p>
             </div>
             <div className='px-5'>
-              <img src="about-3.png" alt="性格の画像" style={{display: 'block; margin: auto;', width: 'auto', height: 'auto'}}/>
+              <img src="about-3.png" alt="性格の画像" style={{display: 'block; margin: auto;', width: '200px', height: '160px'}}/>
               <h1 className="mt-4 text-xl text-my_main-13 font-bold text-center tracking-wider">性格</h1>
               <p className="mt-2 leading-5 text-my_main-25 tracking-wider">
                 精神年齢が低い（常に少年）、好きなもの・興味あるものに対しての集中力、こだわりが高い。<br />

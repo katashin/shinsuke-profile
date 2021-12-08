@@ -13,7 +13,7 @@ export default function Values(){
           <div className="container px-6 py-8 mx-auto">
             <div className="grid grid-cols-1 gap-6 lg:grid-cols-3 lg:border-b-0">
               <div className='px-10 border-[#c5eaea] border-b-4 lg:border-b-0 lg:border-r-4'>
-                <img src="value1.png" alt="" style={{display: 'block; margin: auto;', width: 'auto', height: 'auto'}}/>
+                <img src="value1.png" alt="" style={{display: 'block; margin: auto;', width: '200px', height: '200px'}}/>
                 <h1 className="mt-8 text-xl text-my_main-25 font-bold text-center tracking-wider">相手の立場で考える</h1>
                 <p className="my-10 leading-5 text-my_main-25 tracking-wider">
                   自身の言動を客観的に見ることは、難しいのではないかと考えています。しかし、自分を客観的にみることは大切です。ではどうするか？<br />
@@ -23,7 +23,7 @@ export default function Values(){
                 </p>
               </div>
               <div className='px-10 border-[#c5eaea] border-b-4 lg:border-b-0 lg:border-r-4'>
-                <img src="value2.png" alt="" style={{display: 'block; margin: auto;', width: 'auto', height: 'auto'}}/>
+                <img src="value2.png" alt="" style={{display: 'block; margin: auto;', width: '200px', height: '200px'}}/>
                 <h1 className="mt-8 text-xl text-my_main-25 font-bold text-center tracking-wider">後悔せずやる</h1>
                 <p className="my-10 leading-5 text-my_main-25 tracking-wider">
                   やりたいと思ったとき、思ったことはやろう！と、考えています。後先を考えていない、と捉えられるかもしれませんが。<br />
@@ -32,7 +32,7 @@ export default function Values(){
                 </p>
               </div>
               <div className='px-10'>
-                <img src="value3.png" alt="" style={{display: 'block; margin: auto;', width: 'auto', height: 'auto'}}/>
+                <img src="value3.png" alt="" style={{display: 'block; margin: auto;', width: '200px', height: '200px'}}/>
                 <h1 className="mt-8 text-xl text-my_main-25 font-bold text-center tracking-wider">常に謙虚で</h1>
                 <p className="my-10 leading-5 text-my_main-25 tracking-wider">
                   今の私があるのは、今まで出会った全ての人によって形成されています。これは全ての人に言えることだと考えています。<br />
@@ -60,7 +60,7 @@ export default function Values(){
               ◎社会人として：世の中の課題に対して、具体的に取り組んでいる、取り組める人材を目指。
             </p>
           </div>
-        <img src="future.png" alt="３年後の画像" className='mx-auto xl:pr-52' width='100%' width='100%' />
+        <img src="future.png" alt="３年後の画像" className='mx-auto xl:pr-52' width='800px' height='500px' />
       </div>
       {/* 3年後にやりたいこと作成、終了 */}
     </div>
